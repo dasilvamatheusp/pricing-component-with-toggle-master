@@ -161,6 +161,7 @@ span {
   text-transform: uppercase;
   background: linear-gradient(135deg, #A2A7F0 0%, #696EDD 100%);
   color: #FFFFFF;
+  cursor: pointer;
 }
 .card__cta--highlight {
   display: flex;
@@ -174,6 +175,7 @@ span {
   text-transform: uppercase;
   background-color: #FFFFFF;
   color: #6D72DE;;
+  cursor: pointer;
 }
 
 .last-item {
